@@ -5,6 +5,8 @@ Rincian materi Kampus Merdeka Batch 4
 - PHP
 - MySQL
 - Laravel
+- Rest API
+- Final Project
 
 menambahkan file ke dalam github disebut dengan adding (git add)
 selanjutnya menandai file yang disebut commit (git commit)
